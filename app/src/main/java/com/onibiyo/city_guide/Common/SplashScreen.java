@@ -17,7 +17,7 @@ import com.onibiyo.city_guide.User.UserDashboard;
 
 public class SplashScreen extends AppCompatActivity {
 
-    private static int SPLASH_TIMER = 5000;
+    private static int SPLASH_TIMER = 4000;
 
     ImageView backgroundImage;
     TextView poweredByLine;
